@@ -1,0 +1,127 @@
+---
+title: "Writing"
+---
+
+### **Journal Publications (refereed)**
+
+##### **Keller, S. A., Shipp, S. S., Schroeder, A. D., & Korkmaz, G. (2020). [Doing Data Science: A Framework and Case Study](https://doi.org/10.1162/99608f92.2d83f7f5). Harvard Data Science Review. 2(1).. DOI=https://doi.org/10.1162/99608f92.2d83f7f5. .**
+
+##### **Robbins, C., Korkmaz, G., Calderon, J. B. S., Chen, D., Schroeder, A., Kelling, C., \... & Keller, S. (2019). [The Scope and Impact of Open Source Software as Intangible Capital: A Framework for Measurement with an Application Based on the Use of R Packages](https://dads2busy.github.io/2019/04/open_source_econ). Big Data for 21st Century Economic Statistics. University of Chicago Press.. .**
+
+##### **Pires, B. and Crandell, I. and Arnsbarger, M. and Lancaster, V. and Schroeder, A. and Shipp, S. and Kang, W. and Robinson, P. and Keller, S. (2018). [Predicting postsecondary trajectories in Virginia high schools using publicly available data](https://dads2busy.github.io/2018/12/predicting_post_secondary). Statistical Journal of the IAOS, 34(4). 553-565. DOI=10.3233/SJI-180455. .**
+
+##### **Crandell, I., Schroeder, A., Higdon, D., & Irwin, M. D. (2018). [Record Linkage Reconciliation of Arlington Department of Human Services Administrative Data Using Potts Models](https://dads2busy.github.io/2018/10/potts_model). International Journal of Population Data Science, 3(5). DOI=10.23889/ijpds.v3i5.1061. .**
+
+##### **Pires, B.,Korkmaz, G., Ensor, K., Higdon, D., Keller, S., Lewis, B., Schroeder, A. (2018). [Estimating individualized exposure impacts from ambient ozone levels: A synthetic information approach](https://dads2busy.github.io/2018/03/ozone). Environmental Modelling & Software. Volume 103, May 2018, Pages 146--157. DOI=10.1016/j.envsoft.2018.02.007. .**
+
+##### **Molfino, E., Korkmaz, G., Keller, S. A., Schroeder, A., Shipp, S. (2017). [Can Administrative Housing Data Replace Survey Data?](https://dads2busy.github.io/2017/04/admin-housing-data). Cityscape, 18(4). .**
+
+##### **Keller, S.A., Korkmaz, G., Orr, M., Schroeder, A., Shipp, S. (2017). [The Evolution of Data Quality: Understanding the Transdisciplinary Origins of Data Quality Concepts and Approaches](https://dads2busy.github.io/2017/03/data_quality_hist). Annual Review of Statistics and Its Application, 4(1). DOI=10.1146/annurev-statistics-060116-054114. .**
+
+##### **Keller, S. A., Shipp, S., & Schroeder, A. (2016). [Does Big Data Change the Privacy Landscape? A Review of the Issues](https://dads2busy.github.io/2016/11/privacy_landscape). Annual Review of Statistics and Its Application, 3(1). .**
+
+##### **Pires, B., Korkmaz, G., Ensor, K., Higdon, D., Keller, S. A., Schroeder (2015). [Towards an in silico Experimental Platform for Air Quality - Houston, TX as a Case Study.](https://dads2busy.github.io/2015/11/in-silico-air-quality). Computational Social Science Society of America Conference. Santa Fe, New Mexico.. .**
+
+##### **Schroeder, A.D. (2012). [Pad and Chaff: Secure Approximate String Matching in Private Record Linkage](https://dads2busy.github.io/2012/05/pad_and_chaff). Proceedings of the 14th International Conference on Information Integration and Web-based Applications and Services (iiWAS '12). pp. 121-125. DOI=10.1145/2428736.2428757. ACM, New York, NY, USA.**
+
+##### **Spears, John V. , Bradburn, Isabel., Schroeder, Aaron D., Tester, Diana., Forry, Nicole (2012). [New Data on Child Care Subsidy Programs](https://dads2busy.github.io/2012/05/subsidy_data). Policy & Practice. American Public Health Association.**
+
+##### **Amanna A., Schroeder, A. (2004). [Serial Wireless LANs along DOT Right of Way](https://dads2busy.github.io/2004/05/serial_wireless_lan). Proceedings ITS America. June.. .**
+
+##### **Amanna A., Schroeder, A. (2004). [Serial Wireless IP Networks for DOT Applications](https://dads2busy.github.io/2004/05/serial_wireless). Proceedings IEEE Conference on Intelligent Transportation Systems. October. IEEE.. 274-279. .**
+
+##### **Amanna A., Schroeder, A. (2004). [IP Wireless Networks for Digital Video and Data along Highway Right Of Way](https://dads2busy.github.io/2004/05/ip_video). Proceedings International Symposium on Advanced Radio Technologies. 21-29. .**
+
+##### **Ward, R., Wamsley, G.L., Schroeder, A.D., Robins, D.B. (2000). [Network Organizational Development in the Public Sector. Journal of the American Society for Information Science](https://dads2busy.github.io/2000/05/network_org). Journal of the American Society for Information Science. vol. 51, no. 11.**
+
+##### **Tennert, J.R., & Schroeder, A.D. (1999). [Stakeholder Analysis](https://dads2busy.github.io/1999/04/a). American Society for Public Administration.**
+
+##### **Wamsley, G.L. and Schroeder, A.D. (1996). [Escalating in a Quagmire: The Changing Dynamics of the Emergency Management Policy Subsystem](https://dads2busy.github.io/1996/05/quagmire). Public Administration Review. May/June, pp. 235-244.**
+
+##### **Wamsley, G.L., Schroeder, A.D. and Lane, L.M. (1996). [To Politicize is Not to Control](https://dads2busy.github.io/1996/04/politicize). The American Review of Public Administration. September, pp. 45-60. .**
+
+### **Research/Technical Reports**
+
+##### **Schroeder, A.D. (2018). [Analysis of the Capabilities of the Virginia Longitudinal Data System (VLDS) to support Baseline Distinct Counts of Select Data Sets to support the Establishment of a Virginia Early Childhood Integrated Data System (ECIDS)](https://dads2busy.github.io/2018/05/distinct_counts). Virginia Early Childhood Foundation. .**
+
+##### **Patterson, David, Ken Steif, Niall Brennan, Andreas Haeberlen, Aaron Schroeder, and Adam Smith (2017). [Towards State-of-the-Art IDS Technology and Data Security Solutions](https://dads2busy.github.io/2017/04/towards_ids). Actionable Intelligence for Social Policy, University of Pennsylvania.**
+
+##### **Schroeder A.D., Molfino, E. (2016). [Virginia Department of Emergency Management's Changing Information Requirements and Recommendations](https://dads2busy.github.io/2016/08/vdem_info_flows). Virginia Department of Emergency Management.Richmond, VA..**
+
+##### **Keller S., Shipp S., Orr M., Higdon D., Korkmaz G., Schroeder A.D., Molfino E., Pires B., Ziemer K. and Weinberg D. (2016). [Leveraging External Data Sources to Enhance Official Statistics and Products](https://dads2busy.github.io/2016/08/census_external_data). U.S. Census Bureau.**
+
+##### **Schroeder, A.D. (2013). [VT-VLDS Shaker Specifications](https://dads2busy.github.io/2012/05/shaker_specification). Virginia Information Technologies Agency.**
+
+##### **Schroeder, A.D. (2013). [VT-VLDS Identity Resolution and Query Execution Process Overview](https://dads2busy.github.io/2012/05/identity_resultion). Virginia Information Technologies Agency.**
+
+##### **Schroeder, A.D. (2012). [VT-VLDS Lexicon Specifications](https://dads2busy.github.io/2012/05/lexicon_specifications). Virginia Information Technologies Agency.**
+
+##### **Schroeder, A.D. (2012). [VT-VLDS Lexicon Metadata Tool Design](https://dads2busy.github.io/2012/05/lexicon_metadata_tool). Virginia Information Technologies Agency.**
+
+##### **Schroeder, A.D. (2012). [VT-VLDS Data Adapter User Guide](https://dads2busy.github.io/2012/05/data_adapter). Virginia Information Technologies Agency.**
+
+##### **Schroeder, A.D. (2010). [Multi-Agency Integration of Child-Relevant Data Sets in the Commonwealth of Virginia: Application of a Privacy Protecting Federated Model](https://dads2busy.github.io/2012/05/multi_agency). Data Quality Campaign: Washington, DC.**
+
+##### **Schroeder, A.D. & Bradburb, I. (2009). [Local School Division Student Assessments at Kindergarten Enrollment and During Kindergarten: Current Practices Across Virginia](https://dads2busy.github.io/2012/05/local_school_divs). Project Child HANDS, VA.**
+
+##### **Schroeder, A.D. & Bradburb, I. (2009). [Virginia's Local Social Service Agencies: Child Care Quality, Improvement, Subsidy Data, and What Would be Most Useful in an Early Childhood Data System](https://dads2busy.github.io/2012/05/local_social_service). Project Child HANDS, VA.**
+
+##### **Schroeder, A.D. & Bradburb, I. (2009). [Development of a Classification System for Quality Initiative (QI) Activities Reported by Local Social Service Agencies in Virginia](https://dads2busy.github.io/2012/05/classification_system). Project Child HANDS, VA.**
+
+##### **Jarrott, S.E. and Schroeder, A.D. (2008). [Saving Dollars While Making Sense: An Analysis Comparing Operational Costs of Intergenerational Shared Site Facilities](https://dads2busy.github.io/2012/05/intergenerational). Generations United: Washington, DC.**
+
+##### **Schroeder, A.D. (2006). [511 Virginia Email Alert System](https://dads2busy.github.io/2012/05/email_alert). USDOT Center for ITS Implementation Research.**
+
+##### **Schroeder, A.D. (2006). [Wireless Testing Protocols](https://dads2busy.github.io/2012/05/wireless_protocols). USDOT Center for ITS Implementation Research.**
+
+##### **Schroeder, A.D. (2006). [Route 460 Wireless Network](https://dads2busy.github.io/2012/05/460_wireless). USDOT Center for ITS Implementation Research.**
+
+##### **Schroeder, A.D. (2006). [Regional pedestrian activity measurement](https://dads2busy.github.io/2012/05/ped). USDOT Center for ITS Implementation Research.**
+
+##### **Dingus, T.A. Allen, G.R. Stephen C. Brich, S.C. Neale, V.L. Schroeder, A.D. Blanco, M. Schnell, T. Gillespie, J.S. Schroeder, T.T. Simmons, C. and Hankey, J.M. (2005). [Enhanced Night Visibility Series, Volume II: Overview of Phase I and Development of Phase II - Experimental Plan](https://dads2busy.github.io/2012/05/night_vis). Office of Safety Research and Development, Federal Highway Administration.**
+
+##### **Baker, S. Schroeder, A.D., Rakha, H. Hintz, R. (2003). [I-81 ITS Program Evaluation Framework](https://dads2busy.github.io/2012/05/I81_framework). Virginia Department of Transportation.**
+
+##### **Bergoffen, G., Schroeder, A.D. and Swan, N. (2003). [Evaluation of the Truck Fleet Support Program](https://dads2busy.github.io/2012/05/truck_fleet_support). Virginia Department of Transportation.**
+
+##### **Schroeder, A.D. (2003). [Travel Virginia](https://dads2busy.github.io/2012/05/travel_virginia). USDOT Center for ITS Implementation Research.**
+
+##### **Schroeder, A.D. Amanna, A. (2003). [I-81 Video System Design and Implementation](https://dads2busy.github.io/2012/05/I81_video). USDOT Center for ITS Implementation Research.**
+
+##### **Schroeder, A.D. Laskowski, K. (2003). [Transportation Data Clearinghouse](https://dads2busy.github.io/2012/05/data_clearinghouse). USDOT Center for ITS Implementation Research.**
+
+##### **Baker, S. and Schroeder, A.D. (2002). [Case Study Evaluation of the Virginia Department of Transportation's I-81 ITS Program](https://dads2busy.github.io/2012/05/I81_ITS_Case_Study). Virginia Department of Transportation.**
+
+##### **Schroeder, A.D. and Hales, R. (2002). [Extension of 'Travel Shenandoah' North to Harrisburg, Pennsylvania: Historical Development and Lessons Learned](https://dads2busy.github.io/2012/05/ts_extension). I-95 Cooridor Coalition.**
+
+##### **Schroeder, A.D. and Stebner, M. (2002). [Bedford Ride Strategic Plan and Operations Guide. Strategic Plan](https://dads2busy.github.io/2012/05/bedford_ride). County of Bedford, VA.**
+
+##### **Hintz, R. and Schroeder, A.D. (2001). [TravelShenandoah.Com Market Definitions: A Plan to Increase Users](https://dads2busy.github.io/2012/05/ts_market_definitions). Virginia Department of Transportation.**
+
+##### **Worrall, R.D. and Schroeder, A.D. (2000). [Travel Virginia: A Statewide System of Public-Private Partnerships for ATIS Deployment](https://dads2busy.github.io/2012/04/travel_virginia_ATIS). Virginia Department of Transportation.**
+
+##### **Neale. V.L., Dingus, T.A., Schroeder, A.D. (1998). [Advanced Traveler Information Systems and Commercial Vehicle Operations Components of the Intelligent Transportation Systems: Investigation of User Stereotype and Preferences](https://dads2busy.github.io/2012/04/atis_user_preferences). Federal Highway Administration Contract No. DTFH61-92-C-00102, Item No. 0021.**
+
+##### **Neale, V. L., Dingus, T. A., Schroeder, A. D., Zellers, S., & Reinach, S. (1997). [Development of Human Factors Guidelines for Advanced Traveler Information Systems and Commercial Vehicle Operations: Advanced Traveler Information System Feature Standardization](https://dads2busy.github.io/2012/04/human_factors_guidelines). Federal Highway Administration (FHWA-RD-96-149).**
+
+##### **Baker, S., Schroeder, A. D., Rakha, H. A., & Hintz, R. (2003). [I-81 Intelligent Transportation Systems (ITS) Program Evaluation Plan](https://dads2busy.github.io/2003/05/I81_ITS_eval). Joint Program Office for Intelligent Transportation Systems (DOT-HS-811328). .**
+
+### **Dissertation**
+
+##### **Schroeder, A.D. (2001). [Building Implementation Networks: Building Multi-organizational, Multi-sector Structures for Policy Implementation](https://dads2busy.github.io/2012/07/dissertation). Virginia Polytechnic Institute and State University. .**
+
+### **Book Chapters**
+
+##### **Schroeder, A.D., Wamsley, G.L., and Ward, R. (2000). [The Evolution of Emergency Management in America: From a Painful Past to a Promising but Uncertain Future](https://dads2busy.github.io/2012/07/em_evolution). Handbook of Emergency Management. Ali Farazmand. Marcel-Dekker: New York.**
+
+### **Conference Proceedings/Presentations**
+
+##### **Keller, S., Schroeder, A.D. (2015). [Data - The New Asset Class](https://dads2busy.github.io/2012/04/hpc_day). April 6. HPC Day, Virginia Tech.**
+
+##### **Schroeder, A.D. (2014). [Building Data Sharing Infrastructures: Taking Context and Stakeholders Seriously](https://dads2busy.github.io/2012/04/sharing_infra). November 17. Global Forum on Urban and Regional Resilience (GFURR) Resilience Workshop, Virginia Tech.**
+
+##### **Stephanie Goodwin, Hosig K.W., Serrano E., Redican K., Schroeder A.D., You W., and Anderson E.S. (2011). [Association between perceived university environment and physical activity in college students. 1-Nov. American Public Health Association 139th Annual Meeting and Exposition](https://dads2busy.github.io/2012/04/phys_ed). November 1. American Public Health Association 139th Annual Meeting and Exposition. Washington, DC.**
+
+### **Editorials**
+
+##### **Schroeder, A.D. (1995). [The Political Roots of Hating Government](https://dads2busy.github.io/2012/04/hating_govt). April 30. Roanoke Times and World News.**

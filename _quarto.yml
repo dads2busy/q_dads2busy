@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Aaron Schroeder"
+  navbar:
+    left:
+      - href: working.qmd
+        text: Working
+      - href: writing.qmd
+        text: Writing
+      - href: researching.qmd
+        text: Researching
+      - href: teaching.qmd
+        text: Teaching
+      - href: speaking.qmd
+        text: Speaking
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

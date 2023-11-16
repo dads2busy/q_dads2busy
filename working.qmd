@@ -1,0 +1,51 @@
+---
+title: "Working"
+---
+
+### **Associate Research Professor**
+
+#### **Research Associate Professor at Social and Decision Analytics Division, Bioinformatics Institute, University of Virginia**
+
+**2018-Present.** Dr. Schroeder's overarching research focus is the enablement of Evidence-Based Policy-Making and Program Evaluation through the Secure Liberation, Integration and Analysis of Administrative Data. Dr. Schroeder has extensive experience in the technologies and related policies of information/data integration and systems analysis, policy and program development and implementation, quantitative and qualitative methodologies of evaluation, and the general application of data and web technologies to the enhancement of public and private sector services.
+
+### **Senior Data Scientist & Architect**
+
+#### **Social Decisions & Analytics Lab, Biocomplexity Institute at Virginia Tech (BI)**
+
+**2014-2018.** Responsible for planning, securing and executing major research projects focused on the techniques, methods, and theories related to the integration, storage, retrieval, sharing, and optimal use of policy-relevant data, information, and knowledge for the purposes of policy analysis and program evaluation. A particular focus in this role has been onthe design, implementation and support of a technological infrastructure to supportthe integration and analysis of federal, state, and local-level data streams for the purpose of conducting policy analyses and program evaluations. An additional focus of this role has been the design, implementation and execution of techniques, processes, and technologies to facilitate the transfer of Data Science capabilities to local government.
+
+### **Information Architect & Data Scientist, Leader, Public Policy Data Group**
+
+#### **Virginia Tech Institute for Policy & Governance (VTIPG)**
+
+**2010-2014.** Responsible for leadership of a multidisciplinary research program dedicated to conducting policy analyses and program evaluation using the techniques, methods, and theories related to the integration, storage, retrieval, sharing, and optimal use of policy relevant data, information and knowledge. Responsible for maintaining a high level of influence and reputation among Virginia state agencies dealing with issues of information integration and informatics. Initial focus of the position was on development and oversight of a portfolio of projects involving the integration and analysis of education, health, social service and non-profit administrative data streams for the purpose of conducting policy analyses and program evaluations impacting a wide range of constituents including: pre-K child social and health service recipients; child care service operators; primary, secondary, post-secondary and adult education service recipients; state workforce training service recipients; and, U.S. Veteran health and social service recipients. Clients include local, state, federal and non-profit agency leaders and policymakers.
+
+### **Research Scientist**
+
+#### **Virginia Tech Institute for Policy & Governance (VTIPG)**
+
+**2008-2010.** Responsible for planning, securing and executing major research projects focused on the techniques, methods, and theories related to the integration, storage, retrieval, sharing, and optimal use of policy-relevant data, information, and knowledge for the purposes of policy analysis and program evaluation. A particular focus has been on the integration and analysis of education, health, social service and non-profit administrative data streams for the purpose of conducting policy analyses and program evaluations impacting a wide range of constituents including: pre-K child social and health service recipients; child care service operators; primary, secondary, post-secondary and adult education service recipients; state workforce training service recipients; and, U.S. Veteran health and social service recipients. Continuing, high-profile projects in the Commonwealth of Virginia are the USHHS-funded Project Child HANDS and the USED-funded Statewide Longitudinal Data System.
+
+### **Research Scientist, Director, Center for Technology Deployment**
+
+#### **Virginia Tech Transportation Institute (VTTI)**
+
+**2004-2006.** Director of the first research center within the Virginia Tech Transportation Institute and, by itself, the fifth largest research center at Virginia Tech. The director is responsible for managing approximately 20 research projects/year, 20 full-time and part-time staff members, 8 graduate students, and approximately \$2 million/year in research expenditures. Comprised of technology and management professionals, the mission of the Center for Technology Deployment is to "invent, deploy, and evaluate" prototype Intelligent Transportation System (ITS) technologies for use by state departments of transportation. The invention aspect of the center's mission included extensive work with information technologies and their application to Advanced Traveler Information Systems and Advanced Traffic Management Systems. The deployment aspect of the center's mission included extensive work in building partnerships with both public and private agencies to produce "live" demonstration projects. The evaluation aspect of the center's mission involved the application of both managerial and technical evaluation tools to establish the likelihood of an inventions deployment into real-time environments.
+
+### **Senior Research Associate, Leader, Information Applications Group**
+
+#### **Virginia Tech Transportation Institute (VTTI)**
+
+**2002-2004.** The mission of the Information Applications Program was to utilize information technology and inter-institutional (e.g. public-private) partnerships to develop and deploy new or enhanced public services. Responsibilities include the management of existing program development and deployment projects, procurement of all program funding, management of program relationships with private and public-sector personnel and political representatives, and coordinating with other Institute research programs. The Information Applications Group was founded in 1998 and has quickly grown to become the second largest research group at the Institute. Statistics as of 2002 for the center were: over \$3 million in committed contract funding, 20 staff members (programmers, policy analysts, marketing analysts, lawyers, project managers), 4 associated Virginia Tech faculty members, and 11 graduate research assistants (representing Systems Engineering, Public Administration, Computer Science, and Marketing).
+
+### **Senior Research Associate**
+
+#### **Virginia Tech Transportation Institute (VTTI)**
+
+**1998-2002.** Served on numerous research teams taking responsibility for necessary policy analyses, stakeholder facilitations, and development of applicable IT solutions. Served as principal investigator, co-principal investigator, or researcher on numerous projects.
+
+### **Research Associate**
+
+#### **National Academy of Public Administration (NAPA)**
+
+**1995-1996.** Standing Panel on Executive Organization and Management Served as the Assistant to the Director of a National Academy of Public Administration study focusing on the relationship of the National Guard to public, non-profit, and private agencies in natural disaster response and recovery.
