@@ -15,6 +15,10 @@ website:
         text: Teaching
       - href: speaking.qmd
         text: Speaking
+      - href: dspg.qmd
+        text: DSPG
+      - href: datascience.qmd
+        text: Data Science
       - about.qmd
 
 format:
